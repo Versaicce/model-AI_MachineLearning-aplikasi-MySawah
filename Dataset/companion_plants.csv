@@ -1,0 +1,1005 @@
+Source Node,Link,Destination Node,Source Type
+bawang-bawangan,membantu,pohon buah-buahan,sayuran
+bawang-bawangan,membantu,sayuran nabati,sayuran
+bawang-bawangan,membantu,tomat,sayuran
+bawang-bawangan,membantu,cabai,sayuran
+bawang-bawangan,membantu,paprika,sayuran
+bawang-bawangan,membantu,kentang,sayuran
+bawang-bawangan,membantu,sawi,sayuran
+bawang-bawangan,membantu,wortel,sayuran
+asparagus,membantu,tomat,sayuran
+asparagus,membantu,daun peterseli,sayuran
+"kacang, semak",membantu,timun,sayuran
+"kacang, semak",membantu,stroberi,sayuran
+sayuran berakar,membantu,brokoli,sayuran
+sayuran berakar,membantu,"kacang, semak",sayuran
+sayuran berakar,membantu,kubis,sayuran
+sayuran berakar,membantu,selada,sayuran
+sayuran berakar,membantu,umbi,sayuran
+sayuran berakar,membantu,bawang,sayuran
+sayuran berakar,membantu,sawi,sayuran
+sayuran berakar,membantu,buah tropis,sayuran
+sawi,membantu,sayuran berakar,sayuran
+sawi,membantu,bawang,sayuran
+sawi,membantu,kentang,sayuran
+sawi,membantu,jagung,sayuran
+sawi,membantu,padi,sayuran
+brokoli,membantu,selada,sayuran
+kubis,membantu,kacang,sayuran
+kubis,membantu,seledri,sayuran
+wortel,membantu,tomat,sayuran
+wortel,membantu,bawang-bawangan,sayuran
+wortel,membantu,kacang,sayuran
+wortel,membantu,daun bawang,sayuran
+wortel,membantu,selada,sayuran
+wortel,membantu,bawang,sayuran
+wortel,membantu,buah tropis,sayuran
+kembang kol,membantu,kacang,sayuran
+kembang kol,membantu,seledri,sayuran
+kembang kol,membantu,bayam,sayuran
+kembang kol,membantu,kacang polong,sayuran
+seledri,membantu,"kacang, semak",sayuran
+seledri,membantu,sawi,sayuran
+seledri,membantu,timun,sayuran
+chard,membantu,sawi,sayuran
+chard,membantu,buah tropis,sayuran
+jagung,membantu,kacang,sayuran
+jagung,membantu,bibit timun,sayuran
+jagung,membantu,soykacang,sayuran
+jagung,membantu,tomat,sayuran
+jagung,membantu,kacang,sayuran
+jagung,membantu,bibit timun,sayuran
+jagung,membantu,soykacang,sayuran
+jagung,membantu,tomat,sayuran
+timun,membantu,kacang,sayuran
+timun,membantu,umbi,sayuran
+timun,membantu,selada,sayuran
+bibit timun,membantu,jagung,sayuran
+terong,membantu,kacang,sayuran
+terong,membantu,paprika,sayuran
+terong,membantu,tomat,sayuran
+terong,membantu,buah tropis,sayuran
+terong,membantu,kacang,sayuran
+terong,membantu,paprika,sayuran
+terong,membantu,tomat,sayuran
+terong,membantu,buah tropis,sayuran
+umbi,membantu,bawang,sayuran
+umbi,membantu,sayuran berakar,sayuran
+umbi,membantu,timun,sayuran
+bawang perai,membantu,wortel,sayuran
+bawang perai,membantu,seledri,sayuran
+bawang perai,membantu,bawang,sayuran
+bawang perai,membantu,tomat,sayuran
+bawang perai,membantu,buah tropis,sayuran
+kacang-kacangan,membantu,sayuran berakar,sayuran
+kacang-kacangan,membantu,selada,sayuran
+kacang-kacangan,membantu,Bendi ,sayuran
+kacang-kacangan,membantu,kentang,sayuran
+kacang-kacangan,membantu,bayam,sayuran
+kacang-kacangan,membantu,adas sowa,sayuran
+kacang-kacangan,membantu,kubis,sayuran
+kacang-kacangan,membantu,wortel,sayuran
+kacang-kacangan,membantu,chards,sayuran
+kacang-kacangan,membantu,terong,sayuran
+kacang-kacangan,membantu,kacang polong,sayuran
+kacang-kacangan,membantu,tomat,sayuran
+kacang-kacangan,membantu,sawi,sayuran
+kacang-kacangan,membantu,jagung,sayuran
+kacang-kacangan,membantu,timun,sayuran
+kacang-kacangan,membantu,anggur,sayuran
+selada,membantu,sayuran berakar,sayuran
+selada,membantu,kacang,sayuran
+selada,membantu,Bendi ,sayuran
+selada,membantu,bawang,sayuran
+selada,membantu,lobakes,sayuran
+selada,membantu,brokoli,sayuran
+selada,membantu,wortel,sayuran
+selada,membantu,buah tropis,sayuran
+mustard,membantu,kacang,sayuran
+mustard,membantu,brokoli,sayuran
+mustard,membantu,kubis,sayuran
+mustard,membantu,kembang kol,sayuran
+mustard,membantu,pohon buah-buahan,sayuran
+mustard,membantu,anggur,sayuran
+mustard,membantu,lobakes,sayuran
+mustard,membantu,brussels sprouts,sayuran
+mustard,membantu,turnips,sayuran
+Bendi ,membantu,sweet kentang,sayuran
+Bendi ,membantu,tomat,sayuran
+Bendi ,membantu,paprika,sayuran
+bawang,membantu,sayuran berakar,sayuran
+bawang,membantu,sawi,sayuran
+bawang,membantu,kubis,sayuran
+bawang,membantu,brokoli,sayuran
+bawang,membantu,wortel,sayuran
+bawang,membantu,selada,sayuran
+bawang,membantu,timun,sayuran
+bawang,membantu,paprika,sayuran
+bawang,membantu,buah tropis,sayuran
+bawang,membantu,stroberi,sayuran
+bawang,membantu,green bawang,sayuran
+bawang,membantu,chinese kubis,sayuran
+parsnip,membantu,pohon buah-buahan,sayuran
+kacang polong,membantu,sawi,sayuran
+kacang polong,membantu,turnips,sayuran
+kacang polong,membantu,kembang kol,sayuran
+kacang polong,membantu,bawang putih,sayuran
+paprika,membantu,Bendi ,sayuran
+kentang,membantu,sawi,sayuran
+kentang,membantu,kacang,sayuran
+kentang,membantu,jagung,sayuran
+kentang,membantu,kacang polong,sayuran
+kentang,membantu,buah tropis,sayuran
+labu,membantu,jagung,sayuran
+labu,membantu,kacang,sayuran
+lobak,membantu,labu,sayuran
+lobak,membantu,terong,sayuran
+lobak,membantu,timun,sayuran
+lobak,membantu,selada,sayuran
+lobak,membantu,kacang polong,sayuran
+lobak,membantu,kacang,sayuran
+lobak,membantu,"kacang, pole",sayuran
+bayam,membantu,sawi,sayuran
+bayam,membantu,kembang kol,sayuran
+bayam,membantu,buah tropis,sayuran
+labu,membantu,jagung,sayuran
+labu,membantu,kacang,sayuran
+labu,membantu,Bendi ,sayuran
+sweet kentang,membantu,Bendi ,sayuran
+tomat,membantu,seledri,sayuran
+tomat,membantu,roses,sayuran
+tomat,membantu,paprika,sayuran
+tomat,membantu,asparagus,sayuran
+turnips,membantu,kacang polong,sayuran
+turnips,membantu,brokoli,sayuran
+lobak,membantu,kacang polong,sayuran
+lobak,membantu,brokoli,sayuran
+stroberi,membantu,"kacang, semak",buah
+stroberi,membantu,selada,buah
+stroberi,membantu,bawang,buah
+stroberi,membantu,bayam,buah
+stroberi,membantu,buah tropis,buah
+kemangi,membantu,tomat,herbal
+kemangi,membantu,paprika,herbal
+kemangi,membantu,daun jintan,herbal
+kemangi,membantu,asparagus,herbal
+kemangi,membantu,petunias,herbal
+kemangi,membantu,anggur,herbal
+borage,membantu,almost everything,herbal
+borage,membantu,kacang,herbal
+borage,membantu,stroberi,herbal
+borage,membantu,bibit timun,herbal
+borage,membantu,timun,herbal
+borage,membantu,labu,herbal
+borage,membantu,pohon buah-buahan,herbal
+borage,membantu,tomat,herbal
+borage,membantu,kubis,herbal
+caraway,membantu,stroberi,herbal
+catnip,membantu,terong,herbal
+Kamomil,membantu,anise,herbal
+Kamomil,membantu,kemangi,herbal
+Kamomil,membantu,borage,herbal
+Kamomil,membantu,caraway,herbal
+Kamomil,membantu,catnip,herbal
+Kamomil,membantu,chamomille,herbal
+Kamomil,membantu,servil,herbal
+Kamomil,membantu,Kucai,herbal
+Kamomil,membantu,daun Ketumbar,herbal
+Kamomil,membantu,corier,herbal
+Kamomil,membantu,adas sowa,herbal
+Kamomil,membantu,adas,herbal
+Kamomil,membantu,biji rami,herbal
+Kamomil,membantu,bawang putih,herbal
+Kamomil,membantu,hisop,herbal
+Kamomil,membantu,lavender,herbal
+Kamomil,membantu,serai,herbal
+Kamomil,membantu,angdan,herbal
+Kamomil,membantu,daun jintan,herbal
+Kamomil,membantu,daun peterseli,herbal
+Kamomil,membantu,daun mint,herbal
+Kamomil,membantu,rosemary,herbal
+Kamomil,membantu,sage,herbal
+Kamomil,membantu,apsintus selatan,herbal
+Kamomil,membantu,daun mint,herbal
+Kamomil,membantu,jelatang,herbal
+Kamomil,membantu,summer savory,herbal
+Kamomil,membantu,tarragon,herbal
+Kamomil,membantu,thyme,herbal
+Kamomil,membantu,daun baru cina,herbal
+Kamomil,membantu,daun seribu,herbal
+Kamomil,membantu,sawi,herbal
+Kamomil,membantu,timun,herbal
+Kamomil,membantu,padi,herbal
+Kamomil,membantu,bawang,herbal
+Kamomil,membantu,kubis,herbal
+servil,membantu,lobakes,herbal
+servil,membantu,selada,herbal
+servil,membantu,brokoli,herbal
+Kucai,membantu,apples,herbal
+Kucai,membantu,wortel,herbal
+Kucai,membantu,anggur,herbal
+Kucai,membantu,roses,herbal
+Kucai,membantu,tomat,herbal
+Kucai,membantu,sawi,herbal
+Kucai,membantu,brokoli,herbal
+Kucai,membantu,kubis,herbal
+Kucai,membantu,mustard,herbal
+daun Ketumbar,membantu,anise,herbal
+daun Ketumbar,membantu,kubis,herbal
+daun Ketumbar,membantu,bayam,herbal
+daun Ketumbar,membantu,selada,herbal
+daun Ketumbar,membantu,tomat,herbal
+ketumbar,membantu,anise,herbal
+ketumbar,membantu,kubis,herbal
+ketumbar,membantu,bayam,herbal
+ketumbar,membantu,selada,herbal
+ketumbar,membantu,tomat,herbal
+adas sowa,membantu,sawi,herbal
+adas sowa,membantu,brokoli,herbal
+adas sowa,membantu,kubis,herbal
+adas sowa,membantu,jagung,herbal
+adas sowa,membantu,terong,herbal
+adas sowa,membantu,terong,herbal
+adas sowa,membantu,adas,herbal
+adas sowa,membantu,selada,herbal
+adas sowa,membantu,bawang,herbal
+adas sowa,membantu,timun,herbal
+adas,membantu,adas sowa,herbal
+biji rami,membantu,wortel,herbal
+biji rami,membantu,kentang,herbal
+bawang putih,membantu,vetch,herbal
+bawang putih,membantu,sawi,herbal
+bawang putih,membantu,sayuran berakar,herbal
+bawang putih,membantu,roses,herbal
+bawang putih,membantu,tomat,herbal
+bawang putih,membantu,timun,herbal
+bawang putih,membantu,selada,herbal
+bawang putih,membantu,seledri,herbal
+bawang putih,membantu,kacang polong,herbal
+bawang putih,membantu,kentang,herbal
+hisop,membantu,sawi,herbal
+hisop,membantu,kubis,herbal
+hisop,membantu,anggur,herbal
+lavender,membantu,chamomille,herbal
+lavender,membantu,selada,herbal
+lavender,membantu,sawi,herbal
+lavender,membantu,bawang,herbal
+lavender,membantu,tomat,herbal
+lavender,membantu,daun jintan,herbal
+lavender,membantu,thyme,herbal
+lavender,membantu,marjoram,herbal
+lavender,membantu,sage,herbal
+lavender,membantu,rosemary,herbal
+lavender,membantu,kemangi,herbal
+lavender,membantu,lemon balm,herbal
+lavender,membantu,labu,herbal
+serai,membantu,terong,herbal
+angdan,membantu,kacang,herbal
+daun jintan,membantu,anggur,herbal
+daun jintan,membantu,tomat,herbal
+daun jintan,membantu,paprika,herbal
+daun jintan,membantu,labus,herbal
+daun peterseli,membantu,asparagus,herbal
+daun peterseli,membantu,jagung,herbal
+daun peterseli,membantu,jagung,herbal
+daun peterseli,membantu,tomat,herbal
+daun mint,membantu,bawang-bawangan,herbal
+daun mint,membantu,sawi,herbal
+daun mint,membantu,kubis,herbal
+daun mint,membantu,kacang polong,herbal
+daun mint,membantu,tomat,herbal
+rosemary,membantu,kubis,herbal
+rosemary,membantu,kacang,herbal
+rosemary,membantu,sawi,herbal
+rosemary,membantu,wortel,herbal
+rosemary,membantu,thyme,herbal
+sage,membantu,sawi,herbal
+sage,membantu,rosemary,herbal
+sage,membantu,kubis,herbal
+sage,membantu,kacang,herbal
+sage,membantu,brussels sprouts,herbal
+sage,membantu,wortel,herbal
+sage,membantu,stroberi,herbal
+sage,membantu,tomat,herbal
+sage,membantu,marjoram,herbal
+apsintus selatan,membantu,sawi,herbal
+apsintus selatan,membantu,pohon buah-buahan,herbal
+daun mint,membantu,bawang-bawangan,herbal
+daun mint,membantu,sawi,herbal
+daun mint,membantu,kubis,herbal
+daun mint,membantu,kacang polong,herbal
+daun mint,membantu,tomat,herbal
+jelatang,membantu,chamomille,herbal
+jelatang,membantu,mints,herbal
+jelatang,membantu,brokoli,herbal
+jelatang,membantu,tomat,herbal
+jelatang,membantu,valerian,herbal
+jelatang,membantu,angelica archangelica,herbal
+jelatang,membantu,marjoram,herbal
+jelatang,membantu,sage,herbal
+jelatang,membantu,daun mint,herbal
+summer savoury,membantu,kacang,herbal
+summer savoury,membantu,melons,herbal
+summer savoury,membantu,bawang,herbal
+tarragon,membantu,bawang-bawangan,herbal
+tarragon,membantu,asparagus,herbal
+tarragon,membantu,kacang,herbal
+tarragon,membantu,bush,herbal
+tarragon,membantu,kacang,herbal
+tarragon,membantu,pole,herbal
+tarragon,membantu,kacang,herbal
+tarragon,membantu,fava,herbal
+tarragon,membantu,sayuran berakar,herbal
+tarragon,membantu,sawi,herbal
+tarragon,membantu,brokoli,herbal
+tarragon,membantu,brussels sprouts,herbal
+tarragon,membantu,kubis,herbal
+tarragon,membantu,wortel,herbal
+tarragon,membantu,kembang kol,herbal
+tarragon,membantu,seledri,herbal
+tarragon,membantu,chards,herbal
+tarragon,membantu,jagung,herbal
+tarragon,membantu,jagung,herbal
+tarragon,membantu,timun,herbal
+tarragon,membantu,bibit timun,herbal
+tarragon,membantu,terong,herbal
+tarragon,membantu,terong,herbal
+tarragon,membantu,umbi,herbal
+tarragon,membantu,daun bawang,herbal
+tarragon,membantu,selada,herbal
+tarragon,membantu,mustard,herbal
+tarragon,membantu,sayuran nabati,herbal
+tarragon,membantu,Bendi ,herbal
+tarragon,membantu,bawang,herbal
+tarragon,membantu,parsnip,herbal
+tarragon,membantu,kacang polong,herbal
+tarragon,membantu,paprika,herbal
+tarragon,membantu,kentang,herbal
+tarragon,membantu,labus,herbal
+tarragon,membantu,lobakes,herbal
+tarragon,membantu,soykacang,herbal
+tarragon,membantu,bayam,herbal
+tarragon,membantu,labu,herbal
+tarragon,membantu,sweet kentang,herbal
+tarragon,membantu,tomat,herbal
+tarragon,membantu,turnips,herbal
+tarragon,membantu,lobak,herbal
+tarragon,membantu,terong,herbal
+thyme,membantu,sawi,herbal
+thyme,membantu,kubis,herbal
+thyme,membantu,terong,herbal
+thyme,membantu,terong,herbal
+thyme,membantu,kentang,herbal
+thyme,membantu,stroberi,herbal
+thyme,membantu,tomat,herbal
+thyme,membantu,brussels sprouts,herbal
+daun baru cina,membantu,sawi,herbal
+daun baru cina,membantu,wortel,herbal
+daun seribu,membantu,"""",herbal
+alyssum,membantu,anggur,bunga
+alyssum,membantu,selada,bunga
+Balsem Lebah,membantu,tomat,bunga
+Anyelir,membantu,roses,bunga
+Anyelir,membantu,lavender,bunga
+Anyelir,membantu,echinacea,bunga
+Anyelir,membantu,aster,bunga
+Anyelir,membantu,foxglove,bunga
+geraniums,membantu,roses,bunga
+geraniums,membantu,jagung,bunga
+geraniums,membantu,paprika,bunga
+geraniums,membantu,anggur,bunga
+larkspur,membantu,kacang,bunga
+larkspur,membantu,kubis,bunga
+lupin,membantu,bibit timun,bunga
+lupin,membantu,sawi,bunga
+lupin,membantu,selada,bunga
+lupin,membantu,rosemary,bunga
+lupin,membantu,adas sowa,bunga
+lupin,membantu,stroberi,bunga
+lupin,membantu,roses,bunga
+Kenikir,membantu,tomat,bunga
+Kenikir,membantu,paprika,bunga
+Kenikir,membantu,bibit timun,bunga
+Kenikir,membantu,timun,bunga
+Kenikir,membantu,gourds,bunga
+Kenikir,membantu,labu,bunga
+Kenikir,membantu,kentang,bunga
+Kenikir,membantu,roses,bunga
+Kenikir,membantu,bawang-bawangan,bunga
+Kenikir,membantu,sawi,bunga
+Kenikir,membantu,zucchini,bunga
+selada air,membantu,kacang,bunga
+selada air,membantu,labu,bunga
+selada air,membantu,tomat,bunga
+selada air,membantu,pohon buah-buahan,bunga
+selada air,membantu,sawi,bunga
+selada air,membantu,lobakes,bunga
+selada air,membantu,timun,bunga
+pansy,membantu,bawang-bawangan,bunga
+pansy,membantu,bawang,bunga
+pansy,membantu,roses,bunga
+petunia,membantu,bibit timun,bunga
+petunia,membantu,labu,bunga
+petunia,membantu,labus,bunga
+petunia,membantu,timun,bunga
+petunia,membantu,asparagus,bunga
+phacelia,membantu,selada,bunga
+phacelia,membantu,tomat,bunga
+phacelia,membantu,roses,bunga
+bunga matahari,membantu,paprika,bunga
+bunga matahari,membantu,jagung,bunga
+bunga matahari,membantu,timun,bunga
+bunga matahari,membantu,soykacang,bunga
+bunga matahari,membantu,tomat,bunga
+bunga matahari,membantu,swan plant,bunga
+swan plant,membantu,sunbunga,bunga
+Kacang Manis,membantu,sweet alyssum,bunga
+Kacang Manis,membantu,lobelia,bunga
+Kacang Manis,membantu,roses,bunga
+Kacang Manis,membantu,lavender,bunga
+Kacang Manis,membantu,catmint,bunga
+tansy,membantu,kacang,bunga
+tansy,membantu,sawi,bunga
+tansy,membantu,bibit timun,bunga
+tansy,membantu,timun,bunga
+tansy,membantu,labu,bunga
+tansy,membantu,raspberries,bunga
+tansy,membantu,relatives,bunga
+tansy,membantu,roses,bunga
+tansy,membantu,jagung,bunga
+tansy,membantu,pohon buah-buahan,bunga
+zinnia,membantu,kacang,bunga
+zinnia,membantu,tomat,bunga
+zinnia,membantu,paprika,bunga
+bawang-bawangan,dibantu_oleh,wortel,sayuran
+bawang-bawangan,dibantu_oleh,tomat,sayuran
+bawang-bawangan,dibantu_oleh,wortel,sayuran
+bawang-bawangan,dibantu_oleh,Kenikirs,sayuran
+bawang-bawangan,dibantu_oleh,mints,sayuran
+asparagus,dibantu_oleh,adas sowa,sayuran
+asparagus,dibantu_oleh,corier,sayuran
+asparagus,dibantu_oleh,tomat,sayuran
+asparagus,dibantu_oleh,daun peterseli,sayuran
+asparagus,dibantu_oleh,kemangi,sayuran
+asparagus,dibantu_oleh,comfrey,sayuran
+asparagus,dibantu_oleh,Kenikirs,sayuran
+asparagus,dibantu_oleh,selada airs,sayuran
+"kacang, semak",dibantu_oleh,seledri,sayuran
+"kacang, semak",dibantu_oleh,stroberi,sayuran
+"kacang, semak",dibantu_oleh,grains,sayuran
+"kacang, pole",dibantu_oleh,lobakes,sayuran
+"kacang, pole",dibantu_oleh,jagung,sayuran
+"kacang, fava",dibantu_oleh,stroberi,sayuran
+"kacang, fava",dibantu_oleh,seledri,sayuran
+sayuran berakar,dibantu_oleh,bawang,sayuran
+sayuran berakar,dibantu_oleh,umbi,sayuran
+sayuran berakar,dibantu_oleh,catnip,sayuran
+sayuran berakar,dibantu_oleh,bawang putih,sayuran
+sayuran berakar,dibantu_oleh,selada,sayuran
+sayuran berakar,dibantu_oleh,sawi,sayuran
+sayuran berakar,dibantu_oleh,mints,sayuran
+sawi,dibantu_oleh,sayuran berakar,sayuran
+sawi,dibantu_oleh,bayam,sayuran
+sawi,dibantu_oleh,chards,sayuran
+sawi,dibantu_oleh,seledri,sayuran
+sawi,dibantu_oleh,chamomille,sayuran
+sawi,dibantu_oleh,Kenikirs,sayuran
+sawi,dibantu_oleh,adas sowa,sayuran
+sawi,dibantu_oleh,sage,sayuran
+sawi,dibantu_oleh,kacang polong,sayuran
+sawi,dibantu_oleh,daun mint,sayuran
+sawi,dibantu_oleh,daun mint,sayuran
+sawi,dibantu_oleh,spurrey,sayuran
+sawi,dibantu_oleh,rosemary,sayuran
+sawi,dibantu_oleh,rye-grass,sayuran
+sawi,dibantu_oleh,bawang putih,sayuran
+sawi,dibantu_oleh,bawang,sayuran
+sawi,dibantu_oleh,kentang,sayuran
+sawi,dibantu_oleh,geraniums,sayuran
+sawi,dibantu_oleh,bawang-bawangan,sayuran
+sawi,dibantu_oleh,selada airs,sayuran
+sawi,dibantu_oleh,borage,sayuran
+sawi,dibantu_oleh,hisop,sayuran
+sawi,dibantu_oleh,tansy,sayuran
+sawi,dibantu_oleh,tomat,sayuran
+sawi,dibantu_oleh,thyme,sayuran
+sawi,dibantu_oleh,daun baru cina,sayuran
+sawi,dibantu_oleh,apsintus selatan,sayuran
+sawi,dibantu_oleh,kacang,sayuran
+sawi,dibantu_oleh,clover,sayuran
+brokoli,dibantu_oleh,mustard,sayuran
+brokoli,dibantu_oleh,rabe,sayuran
+brokoli,dibantu_oleh,sayuran berakar,sayuran
+brokoli,dibantu_oleh,adas sowa,sayuran
+brokoli,dibantu_oleh,selada,sayuran
+brokoli,dibantu_oleh,mustard,sayuran
+brokoli,dibantu_oleh,bawang,sayuran
+brokoli,dibantu_oleh,tomat,sayuran
+brokoli,dibantu_oleh,turnips,sayuran
+brokoli,dibantu_oleh,clover,sayuran
+brussels sprouts,dibantu_oleh,sage,sayuran
+brussels sprouts,dibantu_oleh,thyme,sayuran
+brussels sprouts,dibantu_oleh,clover,sayuran
+kubis,dibantu_oleh,kacang,sayuran
+kubis,dibantu_oleh,clover,sayuran
+kubis,dibantu_oleh,calendula,sayuran
+kubis,dibantu_oleh,chamomille,sayuran
+kubis,dibantu_oleh,larkspur,sayuran
+kubis,dibantu_oleh,selada airs,sayuran
+kubis,dibantu_oleh,adas sowa,sayuran
+kubis,dibantu_oleh,corier,sayuran
+kubis,dibantu_oleh,hisop,sayuran
+kubis,dibantu_oleh,bawang,sayuran
+kubis,dibantu_oleh,sayuran berakar,sayuran
+kubis,dibantu_oleh,Kenikirs,sayuran
+kubis,dibantu_oleh,mints,sayuran
+kubis,dibantu_oleh,rosemary,sayuran
+kubis,dibantu_oleh,sage,sayuran
+kubis,dibantu_oleh,thyme,sayuran
+kubis,dibantu_oleh,tomat,sayuran
+wortel,dibantu_oleh,selada,sayuran
+wortel,dibantu_oleh,bawang-bawangan,sayuran
+wortel,dibantu_oleh,Kucai,sayuran
+wortel,dibantu_oleh,daun bawang,sayuran
+wortel,dibantu_oleh,bawang,sayuran
+wortel,dibantu_oleh,shallots,sayuran
+wortel,dibantu_oleh,rosemary,sayuran
+wortel,dibantu_oleh,daun baru cina,sayuran
+wortel,dibantu_oleh,sage,sayuran
+wortel,dibantu_oleh,kacang,sayuran
+wortel,dibantu_oleh,biji rami,sayuran
+kembang kol,dibantu_oleh,Kenikirs,sayuran
+kembang kol,dibantu_oleh,rape,sayuran
+kembang kol,dibantu_oleh,sunbunga,sayuran
+kembang kol,dibantu_oleh,bayam,sayuran
+kembang kol,dibantu_oleh,kacang polong,sayuran
+seledri,dibantu_oleh,cosmos,sayuran
+seledri,dibantu_oleh,daisies,sayuran
+seledri,dibantu_oleh,snapdragons,sayuran
+seledri,dibantu_oleh,daun bawang,sayuran
+seledri,dibantu_oleh,tomat,sayuran
+seledri,dibantu_oleh,kembang kol,sayuran
+seledri,dibantu_oleh,kubis,sayuran
+jagung,dibantu_oleh,sunbunga,sayuran
+jagung,dibantu_oleh,adas sowa,sayuran
+jagung,dibantu_oleh,kacang-kacangan,sayuran
+jagung,dibantu_oleh,kacang,sayuran
+jagung,dibantu_oleh,kacang polong,sayuran
+jagung,dibantu_oleh,peanuts,sayuran
+jagung,dibantu_oleh,bibit timun,sayuran
+jagung,dibantu_oleh,clover,sayuran
+jagung,dibantu_oleh,amaranth,sayuran
+jagung,dibantu_oleh,pigweed,sayuran
+jagung,dibantu_oleh,daun peterseli,sayuran
+jagung,dibantu_oleh,kentang,sayuran
+jagung,dibantu_oleh,sunbunga,sayuran
+jagung,dibantu_oleh,adas sowa,sayuran
+jagung,dibantu_oleh,kacang-kacangan,sayuran
+jagung,dibantu_oleh,kacang,sayuran
+jagung,dibantu_oleh,kacang polong,sayuran
+jagung,dibantu_oleh,peanuts,sayuran
+jagung,dibantu_oleh,bibit timun,sayuran
+jagung,dibantu_oleh,clover,sayuran
+jagung,dibantu_oleh,amaranth,sayuran
+jagung,dibantu_oleh,pigweed,sayuran
+jagung,dibantu_oleh,daun peterseli,sayuran
+jagung,dibantu_oleh,kentang,sayuran
+timun,dibantu_oleh,umbi,sayuran
+timun,dibantu_oleh,selada airs,sayuran
+timun,dibantu_oleh,lobakes,sayuran
+timun,dibantu_oleh,Kenikirs,sayuran
+timun,dibantu_oleh,sunbunga,sayuran
+timun,dibantu_oleh,kacang polong,sayuran
+timun,dibantu_oleh,kacang,sayuran
+timun,dibantu_oleh,chamomille,sayuran
+timun,dibantu_oleh,sayuran berakar,sayuran
+timun,dibantu_oleh,wortel,sayuran
+timun,dibantu_oleh,adas sowa,sayuran
+timun,dibantu_oleh,bawang,sayuran
+timun,dibantu_oleh,bawang putih,sayuran
+timun,dibantu_oleh,amaranth,sayuran
+timun,dibantu_oleh,seledri,sayuran
+bibit timun,dibantu_oleh,jagung,sayuran
+terong,dibantu_oleh,Kenikirs,sayuran
+terong,dibantu_oleh,catnip,sayuran
+terong,dibantu_oleh,adas sowa,sayuran
+terong,dibantu_oleh,tarragon,sayuran
+terong,dibantu_oleh,mints,sayuran
+terong,dibantu_oleh,thyme,sayuran
+terong,dibantu_oleh,Kenikirs,sayuran
+terong,dibantu_oleh,catnip,sayuran
+terong,dibantu_oleh,adas sowa,sayuran
+terong,dibantu_oleh,tarragon,sayuran
+terong,dibantu_oleh,mints,sayuran
+terong,dibantu_oleh,thyme,sayuran
+umbi,dibantu_oleh,sayuran berakar,sayuran
+umbi,dibantu_oleh,timun,sayuran
+bawang perai,dibantu_oleh,wortel,sayuran
+bawang perai,dibantu_oleh,clover,sayuran
+kacang-kacangan,dibantu_oleh,sayuran berakar,sayuran
+kacang-kacangan,dibantu_oleh,timun,sayuran
+kacang-kacangan,dibantu_oleh,borage,sayuran
+kacang-kacangan,dibantu_oleh,kubis,sayuran
+kacang-kacangan,dibantu_oleh,wortel,sayuran
+kacang-kacangan,dibantu_oleh,kembang kol,sayuran
+kacang-kacangan,dibantu_oleh,jagung,sayuran
+kacang-kacangan,dibantu_oleh,larkspur,sayuran
+kacang-kacangan,dibantu_oleh,angdan,sayuran
+kacang-kacangan,dibantu_oleh,Kenikirs,sayuran
+kacang-kacangan,dibantu_oleh,mustard,sayuran
+kacang-kacangan,dibantu_oleh,lobakes,sayuran
+kacang-kacangan,dibantu_oleh,kentang,sayuran
+kacang-kacangan,dibantu_oleh,daun mint,sayuran
+kacang-kacangan,dibantu_oleh,rosemary,sayuran
+kacang-kacangan,dibantu_oleh,selada,sayuran
+kacang-kacangan,dibantu_oleh,bawang,sayuran
+kacang-kacangan,dibantu_oleh,labu,sayuran
+selada,dibantu_oleh,lobakes,sayuran
+selada,dibantu_oleh,sayuran berakar,sayuran
+selada,dibantu_oleh,adas sowa,sayuran
+selada,dibantu_oleh,umbi,sayuran
+selada,dibantu_oleh,bawang,sayuran
+selada,dibantu_oleh,kacang,sayuran
+selada,dibantu_oleh,wortel,sayuran
+selada,dibantu_oleh,timun,sayuran
+selada,dibantu_oleh,stroberi,sayuran
+selada,dibantu_oleh,brokoli,sayuran
+selada,dibantu_oleh,thyme,sayuran
+selada,dibantu_oleh,selada airs,sayuran
+selada,dibantu_oleh,alyssum,sayuran
+selada,dibantu_oleh,daun Ketumbar,sayuran
+sayuran nabati,dibantu_oleh,wortel,sayuran
+sayuran nabati,dibantu_oleh,bawang-bawangan,sayuran
+sayuran nabati,dibantu_oleh,mints,sayuran
+sayuran nabati,dibantu_oleh,kemangi,sayuran
+sayuran nabati,dibantu_oleh,daun jintan,sayuran
+Bendi ,dibantu_oleh,kacang,sayuran
+Bendi ,dibantu_oleh,selada,sayuran
+Bendi ,dibantu_oleh,labu,sayuran
+Bendi ,dibantu_oleh,paprika,sayuran
+bawang,dibantu_oleh,wortel,sayuran
+bawang,dibantu_oleh,sayuran berakar,sayuran
+bawang,dibantu_oleh,sawi,sayuran
+bawang,dibantu_oleh,adas sowa,sayuran
+bawang,dibantu_oleh,selada,sayuran
+bawang,dibantu_oleh,stroberi,sayuran
+bawang,dibantu_oleh,Kenikirs,sayuran
+bawang,dibantu_oleh,mints,sayuran
+bawang,dibantu_oleh,tomat,sayuran
+bawang,dibantu_oleh,chamomille,sayuran
+bawang,dibantu_oleh,pansy,sayuran
+kacang polong,dibantu_oleh,turnips,sayuran
+kacang polong,dibantu_oleh,kembang kol,sayuran
+kacang polong,dibantu_oleh,bawang putih,sayuran
+kacang polong,dibantu_oleh,mints,sayuran
+paprika,dibantu_oleh,kacang,sayuran
+paprika,dibantu_oleh,tomat,sayuran
+paprika,dibantu_oleh,marjoram,sayuran
+paprika,dibantu_oleh,Bendi ,sayuran
+paprika,dibantu_oleh,geraniums,sayuran
+paprika,dibantu_oleh,petunias,sayuran
+paprika,dibantu_oleh,sunbunga,sayuran
+paprika,dibantu_oleh,bawang,sayuran
+paprika,dibantu_oleh,kemangi,sayuran
+kentang,dibantu_oleh,horselobak,sayuran
+kentang,dibantu_oleh,kacang,sayuran
+kentang,dibantu_oleh,Kenikirs,sayuran
+kentang,dibantu_oleh,kacang polong,sayuran
+kentang,dibantu_oleh,bawang,sayuran
+kentang,dibantu_oleh,bawang putih,sayuran
+kentang,dibantu_oleh,thyme,sayuran
+kentang,dibantu_oleh,clover,sayuran
+labu,dibantu_oleh,buckpadi,sayuran
+labu,dibantu_oleh,catnip,sayuran
+labu,dibantu_oleh,daun jintan,sayuran
+labu,dibantu_oleh,tansy,sayuran
+labu,dibantu_oleh,lobakes,sayuran
+labu,dibantu_oleh,selada airs,sayuran
+lobak,dibantu_oleh,servil,sayuran
+lobak,dibantu_oleh,selada,sayuran
+lobak,dibantu_oleh,selada airs,sayuran
+kedelai,dibantu_oleh,jagung,sayuran
+kedelai,dibantu_oleh,sunbunga,sayuran
+bayam,dibantu_oleh,stroberi,sayuran
+bayam,dibantu_oleh,kacang polong,sayuran
+bayam,dibantu_oleh,kacang,sayuran
+bayam,dibantu_oleh,kembang kol,sayuran
+labu,dibantu_oleh,kacang,sayuran
+labu,dibantu_oleh,buckpadi,sayuran
+labu,dibantu_oleh,borage,sayuran
+labu,dibantu_oleh,catnip,sayuran
+labu,dibantu_oleh,tansy,sayuran
+labu,dibantu_oleh,lobakes,sayuran
+labu,dibantu_oleh,Kenikirs,sayuran
+labu,dibantu_oleh,selada airs,sayuran
+sweet kentang,dibantu_oleh,Bendi ,sayuran
+tomat,dibantu_oleh,asparagus,sayuran
+tomat,dibantu_oleh,kemangi,sayuran
+tomat,dibantu_oleh,kacang,sayuran
+tomat,dibantu_oleh,daun jintan,sayuran
+tomat,dibantu_oleh,daun peterseli,sayuran
+tomat,dibantu_oleh,Kenikirs,sayuran
+tomat,dibantu_oleh,bawang-bawangan,sayuran
+tomat,dibantu_oleh,bawang putih,sayuran
+tomat,dibantu_oleh,daun bawang,sayuran
+tomat,dibantu_oleh,seledri,sayuran
+tomat,dibantu_oleh,geraniums,sayuran
+tomat,dibantu_oleh,petunias,sayuran
+tomat,dibantu_oleh,selada airs,sayuran
+tomat,dibantu_oleh,borage,sayuran
+tomat,dibantu_oleh,corier,sayuran
+tomat,dibantu_oleh,Kucai,sayuran
+tomat,dibantu_oleh,jagung,sayuran
+tomat,dibantu_oleh,adas sowa,sayuran
+tomat,dibantu_oleh,mustard,sayuran
+tomat,dibantu_oleh,fenugreek,sayuran
+tomat,dibantu_oleh,barley,sayuran
+tomat,dibantu_oleh,wortel,sayuran
+tomat,dibantu_oleh,terong,sayuran
+tomat,dibantu_oleh,mints,sayuran
+tomat,dibantu_oleh,Bendi ,sayuran
+tomat,dibantu_oleh,sage,sayuran
+tomat,dibantu_oleh,thyme,sayuran
+tomat,dibantu_oleh,timun,sayuran
+tomat,dibantu_oleh,labu,sayuran
+turnips,dibantu_oleh,kacang polong,sayuran
+lobak,dibantu_oleh,kacang polong,sayuran
+apple,dibantu_oleh,clover,buah
+apple,dibantu_oleh,Kucai,buah
+apple,dibantu_oleh,bawang putih,buah
+apple,dibantu_oleh,daun bawang,buah
+apple,dibantu_oleh,selada airs,buah
+apple,dibantu_oleh,apsintus selatan,buah
+apple,dibantu_oleh,daffodils,buah
+apple,dibantu_oleh,comfrey,buah
+blueberries,dibantu_oleh,stroberi,buah
+blueberries,dibantu_oleh,clover,buah
+blueberries,dibantu_oleh,dewberries,buah
+blueberries,dibantu_oleh,daun seribu,buah
+pohon buah-buahan,dibantu_oleh,bawang-bawangan,buah
+pohon buah-buahan,dibantu_oleh,tansy,buah
+pohon buah-buahan,dibantu_oleh,selada airs,buah
+pohon buah-buahan,dibantu_oleh,Kenikirs,buah
+pohon buah-buahan,dibantu_oleh,marjoram,buah
+pohon buah-buahan,dibantu_oleh,mustard,buah
+pohon buah-buahan,dibantu_oleh,delions,buah
+pohon buah-buahan,dibantu_oleh,borage,buah
+anggur,dibantu_oleh,hisop,buah
+anggur,dibantu_oleh,alyssum,buah
+anggur,dibantu_oleh,kemangi,buah
+anggur,dibantu_oleh,kacang,buah
+anggur,dibantu_oleh,Kucai,buah
+anggur,dibantu_oleh,geraniums,buah
+anggur,dibantu_oleh,mustard,buah
+anggur,dibantu_oleh,daun jintan,buah
+anggur,dibantu_oleh,clover,buah
+anggur,dibantu_oleh,kacang polong,buah
+anggur,dibantu_oleh,blackberries,buah
+melon,dibantu_oleh,chamomille,buah
+melon,dibantu_oleh,pigweed,buah
+buah tropis,dibantu_oleh,kentang,buah
+buah tropis,dibantu_oleh,sayuran berakar,buah
+buah tropis,dibantu_oleh,wortel,buah
+buah tropis,dibantu_oleh,bayam,buah
+buah tropis,dibantu_oleh,stroberi,buah
+buah tropis,dibantu_oleh,bawang,buah
+buah tropis,dibantu_oleh,daun bawang,buah
+buah tropis,dibantu_oleh,selada,buah
+stroberi,dibantu_oleh,caraway,buah
+stroberi,dibantu_oleh,lupin,buah
+stroberi,dibantu_oleh,bawang,buah
+stroberi,dibantu_oleh,sage,buah
+stroberi,dibantu_oleh,thyme,buah
+stroberi,dibantu_oleh,borage,buah
+anise,dibantu_oleh,corier,herbal
+kemangi,dibantu_oleh,chamomille,herbal
+kemangi,dibantu_oleh,anise,herbal
+Kucai,dibantu_oleh,wortel,herbal
+daun Ketumbar,dibantu_oleh,kacang,herbal
+daun Ketumbar,dibantu_oleh,kacang polong,herbal
+ketumbar,dibantu_oleh,kacang,herbal
+ketumbar,dibantu_oleh,kacang polong,herbal
+adas sowa,dibantu_oleh,adas,herbal
+adas,dibantu_oleh,adas sowa,herbal
+bawang putih,dibantu_oleh,tarragon,herbal
+bawang putih,dibantu_oleh,kacang polong,herbal
+daun jintan,dibantu_oleh,kemangi,herbal
+daun peterseli,dibantu_oleh,apples,herbal
+daun peterseli,dibantu_oleh,asparagus,herbal
+daun peterseli,dibantu_oleh,roses,herbal
+lupin,dibantu_oleh,roses,bunga
+Kenikir,dibantu_oleh,roses,bunga
+pansy,dibantu_oleh,roses,bunga
+rose,dibantu_oleh,Kucai,bunga
+rose,dibantu_oleh,bawang putih,bunga
+rose,dibantu_oleh,Kenikirs,bunga
+swan plant,dibantu_oleh,sunbunga,bunga
+swan plant,dibantu_oleh,kemangi,bunga
+Kacang Manis,dibantu_oleh,sawi,bunga
+Kacang Manis,dibantu_oleh,bayam,bunga
+Kacang Manis,dibantu_oleh,silverbeet,bunga
+Kacang Manis,dibantu_oleh,salads,bunga
+sayuran berakar,dibantu_oleh,"kacang, semak",sayuran
+brokoli,dibantu_oleh,pac choi,sayuran
+brussels sprouts,dibantu_oleh,malting barley,sayuran
+kubis,dibantu_oleh,pot Kenikir,sayuran
+kubis,dibantu_oleh,lacy phacelia,sayuran
+kubis,dibantu_oleh,green bawang,sayuran
+kubis,dibantu_oleh,chinese kubis,sayuran
+kembang kol,dibantu_oleh,chinese kubis,sayuran
+seledri,dibantu_oleh,"kacang, semak",sayuran
+jagung,dibantu_oleh,white geranium,sayuran
+jagung,dibantu_oleh,lamb's quarters,sayuran
+jagung,dibantu_oleh,morning glory,sayuran
+jagung,dibantu_oleh,field mustard,sayuran
+jagung,dibantu_oleh,sudan grass,sayuran
+jagung,dibantu_oleh,white geranium,sayuran
+jagung,dibantu_oleh,lamb's quarters,sayuran
+jagung,dibantu_oleh,morning glory,sayuran
+jagung,dibantu_oleh,field mustard,sayuran
+jagung,dibantu_oleh,sudan grass,sayuran
+timun,dibantu_oleh,amaranthus cruentus,sayuran
+timun,dibantu_oleh,malabar bayam,sayuran
+bibit timun,dibantu_oleh,grain sorghum,sayuran
+terong,dibantu_oleh,redroot pigweed,sayuran
+terong,dibantu_oleh,green kacang,sayuran
+terong,dibantu_oleh,redroot pigweed,sayuran
+terong,dibantu_oleh,green kacang,sayuran
+kacang-kacangan,dibantu_oleh,summer savory,sayuran
+kacang-kacangan,dibantu_oleh,lacy phacelia,sayuran
+Bendi ,dibantu_oleh,sweet kentang,sayuran
+bawang,dibantu_oleh,summer savory,sayuran
+paprika,dibantu_oleh,crimson clover,sayuran
+paprika,dibantu_oleh,field mustard,sayuran
+kentang,dibantu_oleh,dead nettle,sayuran
+labu,dibantu_oleh,jimson weed,sayuran
+kedelai,dibantu_oleh,snap kacang,sayuran
+turnips,dibantu_oleh,hairy vetch,sayuran
+lobak,dibantu_oleh,hairy vetch,sayuran
+blueberries,dibantu_oleh,oak trees,buah
+blueberries,dibantu_oleh,pine trees,buah
+blueberries,dibantu_oleh,bay laurel,buah
+pohon buah-buahan,dibantu_oleh,lemon balm,buah
+melon,dibantu_oleh,summer savory,buah
+melon,dibantu_oleh,sow thistle,buah
+buah tropis,dibantu_oleh,swiss chard,buah
+stroberi,dibantu_oleh,"kacang, semak",buah
+lupin,dibantu_oleh,summer savory,bunga
+bunga matahari,dibantu_oleh,swan plant,bunga
+tomat,dibantu_oleh,Balsem Lebah monarda,sayuran
+bawang-bawangan,hindari,kacang,sayuran
+bawang-bawangan,hindari,kacang polong,sayuran
+asparagus,hindari,bawang,sayuran
+asparagus,hindari,bawang putih,sayuran
+asparagus,hindari,kentang,sayuran
+asparagus,hindari,gladiolus,sayuran
+"kacang, semak",hindari,adas,sayuran
+"kacang, semak",hindari,soykacang,sayuran
+"kacang, semak",hindari,alfalfa,sayuran
+"kacang, pole",hindari,sunbunga,sayuran
+"kacang, pole",hindari,sayuran berakar,sayuran
+"kacang, pole",hindari,sawi,sayuran
+"kacang, pole",hindari,umbi,sayuran
+sayuran berakar,hindari,runner,sayuran
+sawi,hindari,mustard,sayuran
+sawi,hindari,sayuran nabati,sayuran
+sawi,hindari,tomat,sayuran
+sawi,hindari,paprika,sayuran
+sawi,hindari,stroberi,sayuran
+kubis,hindari,anggur,sayuran
+wortel,hindari,adas sowa,sayuran
+wortel,hindari,parsnip,sayuran
+wortel,hindari,lobakes,sayuran
+seledri,hindari,jagung,sayuran
+jagung,hindari,tomat,sayuran
+jagung,hindari,seledri,sayuran
+jagung,hindari,tomat,sayuran
+jagung,hindari,seledri,sayuran
+timun,hindari,kentang,sayuran
+kacang-kacangan,hindari,bawang-bawangan,sayuran
+kacang-kacangan,hindari,gladiolus,sayuran
+selada,hindari,seledri,sayuran
+selada,hindari,kubis,sayuran
+selada,hindari,cress,sayuran
+selada,hindari,daun peterseli,sayuran
+sayuran nabati,hindari,kacang,sayuran
+sayuran nabati,hindari,jagung,sayuran
+sayuran nabati,hindari,adas,sayuran
+sayuran nabati,hindari,adas sowa,sayuran
+sayuran nabati,hindari,sawi,sayuran
+bawang,hindari,lentils,sayuran
+bawang,hindari,kacang polong,sayuran
+bawang,hindari,kacang,sayuran
+paprika,hindari,kacang,sayuran
+kentang,hindari,atriplex,sayuran
+kentang,hindari,wortel,sayuran
+kentang,hindari,timun,sayuran
+kentang,hindari,labus,sayuran
+kentang,hindari,raspberries,sayuran
+kentang,hindari,labu,sayuran
+kentang,hindari,sunbunga,sayuran
+kentang,hindari,tomat,sayuran
+labu,hindari,kentang,sayuran
+lobak,hindari,anggur,sayuran
+tomat,hindari,alfalfa,sayuran
+tomat,hindari,jagung,sayuran
+tomat,hindari,adas,sayuran
+tomat,hindari,kacang polong,sayuran
+tomat,hindari,adas sowa,sayuran
+tomat,hindari,kentang,sayuran
+tomat,hindari,beetroot,sayuran
+tomat,hindari,sawi,sayuran
+tomat,hindari,rosemary,sayuran
+turnips,hindari,knotweed,sayuran
+lobak,hindari,knotweed,sayuran
+apple,hindari,cedar,buah
+apple,hindari,walnut,buah
+apricot,hindari,paprika,buah
+blueberries,hindari,tomat,buah
+anggur,hindari,kubis,buah
+anggur,hindari,bawang putih,buah
+anggur,hindari,lobakes,buah
+buah tropis,hindari,bibit timun,buah
+buah tropis,hindari,jagung,buah
+buah tropis,hindari,cowpea,buah
+buah tropis,hindari,sorghum,buah
+buah tropis,hindari,Bendi ,buah
+stroberi,hindari,sawi,buah
+stroberi,hindari,tomat,buah
+stroberi,hindari,kentang,buah
+stroberi,hindari,terong,buah
+stroberi,hindari,paprika,buah
+stroberi,hindari,melons,buah
+stroberi,hindari,Bendi ,buah
+stroberi,hindari,mints,buah
+stroberi,hindari,bush,buah
+stroberi,hindari,chrysanthemums,buah
+stroberi,hindari,roses,buah
+kemangi,hindari,thyme,herbal
+caraway,hindari,adas sowa,herbal
+servil,hindari,lobakes,herbal
+Kucai,hindari,kacang,herbal
+Kucai,hindari,kacang polong,herbal
+adas sowa,hindari,wortel,herbal
+adas sowa,hindari,tomat,herbal
+bawang putih,hindari,kubis,herbal
+bawang putih,hindari,anggur,herbal
+hisop,hindari,lobakes,herbal
+angdan,hindari,rhubarb,herbal
+daun peterseli,hindari,bawang-bawangan,herbal
+daun peterseli,hindari,selada,herbal
+sage,hindari,bawang-bawangan,herbal
+geraniums,hindari,tomat,bunga
+geraniums,hindari,tobacco,bunga
+geraniums,hindari,sayuran nabati,bunga
+lupin,hindari,tomat,bunga
+lupin,hindari,sayuran nabati,bunga
+selada air,hindari,kembang kol,bunga
+"kacang, semak",hindari,dry kacang,sayuran
+sayuran berakar,hindari,"kacang, pole",sayuran
+sawi,hindari,"kacang, pole",sayuran
+seledri,hindari,aster,sayuran
+timun,hindari,aromatic herbal,sayuran
+bawang perai,hindari,swiss chard,sayuran
+sayuran nabati,hindari,black walnut,sayuran
+paprika,hindari,kale kubis,sayuran
+paprika,hindari,brussels sprouts,sayuran
+tomat,hindari,black walnut,sayuran
+tomat,hindari,chili paprika,sayuran
+turnips,hindari,hedge mustard,sayuran
+lobak,hindari,hedge mustard,sayuran
+buah tropis,hindari,sweet kentang,buah
+stroberi,hindari,bramble buah,buah
+stroberi,hindari,stone buah,buah
+kemangi,hindari,common rue,herbal
+sage,hindari,common rue,herbal
+bunga matahari,hindari,"kacang, pole",bunga
+kemangi,membantu,tomato,herbal
+Kenikir,membantu,tomat,bunga
+bawang putih,hindari,kacang polong,sayuran
+kacang,membantu,jagung,sayuran
+selada air,membantu,zucchini,bunga
+adas,hindari,tomato,herbal
+bunga matahari,membantu,timun,bunga
+Kamomil,membantu,kubis,herbal
+mint,hindari,daun peterseli,herbal
