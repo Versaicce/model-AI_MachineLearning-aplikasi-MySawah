@@ -12,10 +12,10 @@ Model Machine Learning pada aplikasi ini dibangun menggunakan Python dan dikemba
 
 ## *Tujuan utama dari pengembangan model ini adalah untuk:*
 
-1. Memberikan rekomendasi tanaman yang optimal
+1. Memberikan rekomendasi tanaman yang optimal.
 
-2. Membantu meningkatkan produktivitas dan efisiensi pertanian
+2. Membantu meningkatkan produktivitas dan efisiensi pertanian.
 
-3. Mendukung penerapan pertanian berbasis teknologi dan data
+3. Mendukung penerapan pertanian berbasis teknologi dan data.
 
 Project ini dikembangkan dalam sebuah tim sebagai bagian dari pembelajaran dan pengembangan kompetensi di bidang Machine Learning, dan dirancang untuk terintegrasi dengan aplikasi MySawah berbasis mobile.
